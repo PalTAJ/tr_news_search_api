@@ -8,7 +8,7 @@ Again, This is NOT a general web search tool.
 list of sites that will be supported:
 
 
-Site | status
+Source | status
 -------|-------
 Google News Headlines | Done
 yahoo finance | Not yet
