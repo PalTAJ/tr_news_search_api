@@ -11,13 +11,13 @@ list of sites that will be supported:
 Source | status
 -------|-------
 Google News Headlines | Done
-yahoo finance | Not yet
-nasdaq | Not yet
-dailysabah | Not yet
-forbes | Not yet
-business insider | Not yet
-bloomberg | Not yet
-Anadolu Agency | Not yet
+yahoo finance | :no_entry:
+nasdaq | :no_entry:
+dailysabah | :no_entry:
+forbes | :no_entry:
+business insider | :no_entry:
+bloomberg | :no_entry:
+Anadolu Agency | :no_entry:
 
 
 
