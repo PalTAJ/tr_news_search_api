@@ -12,11 +12,7 @@ Source | status
 -------|-------
 Google News Headlines | :white_check_mark:
 dailysabah | :white_check_mark:
-yahoo finance | :no_entry:
-nasdaq | :no_entry:
-forbes | :no_entry:
-business insider | :no_entry:
-bloomberg | :no_entry:
+Hurriyet daily news |  :white_check_mark:
 Anadolu Agency | :no_entry:
 
 
