@@ -12,7 +12,8 @@ Source | status
 Google News Headlines | :white_check_mark:
 dailysabah | :white_check_mark:
 Hurriyet daily news |  :white_check_mark:
-Anadolu Agency | :no_entry:
+Anadolu Agency |  :white_check_mark:
+Bloomberg | :no_entry:
 
 
 
