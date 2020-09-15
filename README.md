@@ -15,7 +15,8 @@ Google News Headlines | :white_check_mark:
 dailysabah | :white_check_mark:
 Hurriyet daily news |  :white_check_mark:
 Anadolu Agency |  :white_check_mark:
-Bloomberg | :no_entry:
+Bloomberg | :white_check_mark:
+Searching For More Sites | :no_entry:
 
 
 
